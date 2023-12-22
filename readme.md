@@ -52,7 +52,7 @@ This regex pattern is suitable for validating email addresses according to the R
 Feel free to customize or extend the regex based on your specific requirements or constraints.
 
 ## License
-This regex pattern is provided under an open-source license. Refer to the LICENSE file for more details.
+This regex pattern is provided under an open-source license.
 
 ## Github
 https://github.com/gracecatk/regex-tutorial
