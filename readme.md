@@ -6,6 +6,23 @@ This README provides an in-depth explanation of the regular expression used for 
 
 This regular expression aims to validate email addresses by confirming their compliance with the RFC 5322 standard. The pattern is designed to cover various aspects, ensuring a comprehensive and accurate validation process.
 
+# Table of Contents
+
+- [Email Validation Regex Pattern README](#email-validation-regex-pattern-readme)
+  - [Overview](#overview)
+    - [Regex Pattern](#regex-pattern)
+  - [Components](#components)
+    - [Anchors](#anchors)
+    - [Quantifiers](#quantifiers)
+    - [Character Classes](#character-classes)
+    - [Grouping and Capturing](#grouping-and-capturing)
+    - [Bracket Expressions](#bracket-expressions)
+    - [Greedy Match](#greedy-match)
+    - [Back-references](#back-references)
+    - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+  - [Usage](#usage)
+  - [License](#license)
+
 ## Regex Pattern
 
 regex
