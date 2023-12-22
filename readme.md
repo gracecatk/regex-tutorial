@@ -34,7 +34,7 @@ Two capturing groups ensure the validation of characters:
 ([a-zA-Z0-9-]+): Captures characters after the '@' symbol, validating the domain.
 
 ## Bracket Expressions
-[^a-zA-Z0-9._%+-]: Ensures that invalid characters are not present before '@'.
+([^a-zA-Z0-9._%+-]): Ensures that invalid characters are not present before '@'.
 
 ## Greedy Match
 +: Indicates a greedy match, capturing as many characters as possible.
